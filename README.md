@@ -19,4 +19,4 @@ level path and `...project/level/block` -- for some block. Then calling:
 ...project$ bem create -l level -b block -m mod -v val -T css
 ```
 
-For options see [bem-tools-create](https://registry.npmjs.org/bem-tools-create).
+For options see [bem-tools-create](https://github.com/bem-tools/bem-tools-create).

@@ -3,7 +3,7 @@
 bem-tools `create` command for executing from current working folder.
 
 Script scans current folders relative to project root, scans for entities
-(level, block, mod, elem, elmMod) and runs `bem-tools-create` with specified
+(level, block, mod, elem, elemMod) and runs `bem-tools-create` with specified
 command line options and some scanned.
 
 For example suppose project path `...project`, `...project/level` -- for some

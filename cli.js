@@ -1,5 +1,5 @@
-/* eslint-env es6, node, commonjs */
-/* --eslint-disable no-console, no-debugger */
+#!/usr/bin/env node
+/* eslint-env es6, node */
 'use strict';
 
 const CreateHere = require('./create-here');

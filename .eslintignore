@@ -1,0 +1,13 @@
+
+# Config, content and system-related stuff...
+.*
+node_modules/
+!.*.js
+
+# Non-code folders...
+\.Work/
+\.UNUSED/
+\!Samples/
+
+# Test
+test/tmpBlock/

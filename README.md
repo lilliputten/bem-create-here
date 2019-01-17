@@ -9,16 +9,16 @@ Script scans current folders relative to project root, scans for entities
 command line options and some scanned.
 
 For example suppose project path `...project`, `...project/level` -- for some
-level path and `...project/level/block` -- for some block. Then calling:
+level path and `...project/level/block` -- for some block. Then the following call form:
 
 ```shell
 ...project/level/block$ bem-create-here -m mod -v val -T css
 ```
 
--- will be equivalent to next command:
+...will be equivalent to next command:
 
 ```shell
 ...project$ bem create -l level -b block -m mod -v val -T css
 ```
 
-For options see [bem-tools-create](https://github.com/bem-tools/bem-tools-create).
+For command line options see [bem-tools-create CLI](https://github.com/bem-tools/bem-tools-create#cli).

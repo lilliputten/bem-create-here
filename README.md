@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/bem-create-here.svg)](https://badge.fury.io/js/bem-create-here)
+
 # bem-create-here
 
 bem-tools `create` command for executing from current working folder.
